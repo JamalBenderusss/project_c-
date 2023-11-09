@@ -1,0 +1,7 @@
+C:\Users\artem\Source\Repos\laba12\laba12\bin\Debug\laba12.exe.config
+C:\Users\artem\Source\Repos\laba12\laba12\bin\Debug\laba12.exe
+C:\Users\artem\Source\Repos\laba12\laba12\bin\Debug\laba12.pdb
+C:\Users\artem\Source\Repos\laba12\laba12\obj\Debug\laba12.csproj.AssemblyReference.cache
+C:\Users\artem\Source\Repos\laba12\laba12\obj\Debug\laba12.csproj.CoreCompileInputs.cache
+C:\Users\artem\Source\Repos\laba12\laba12\obj\Debug\laba12.exe
+C:\Users\artem\Source\Repos\laba12\laba12\obj\Debug\laba12.pdb
